@@ -1,14 +1,14 @@
 {
   "formatVersion": 1,
   "provider": "github-release-feed",
-  "generatedAt": "2026-10-15T17:03:25.5079017-05:00",
+  "generatedAt": "2026-10-16T12:46:19.1579855-05:00",
   "channel": "stable",
   "feedUrl": "https://danjboyd.github.io/LinDirStat-releases/updates/linux/stable.json",
   "package": {
     "id": "org.lindirstat.LinDirStat",
     "name": "LinDirStat",
     "displayName": "LinDirStat",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "manufacturer": "Daniel Boyd"
   },
   "source": {
@@ -19,26 +19,26 @@
   },
   "releases": [
     {
-      "version": "0.1.2",
-      "tag": "v0.1.2",
-      "releaseNotesUrl": "https://github.com/danjboyd/LinDirStat-releases/releases/tag/v0.1.2",
+      "version": "0.1.3",
+      "tag": "v0.1.3",
+      "releaseNotesUrl": "https://github.com/danjboyd/LinDirStat-releases/releases/tag/v0.1.3",
       "assets": [
         {
           "backend": "appimage",
           "platform": "linux-x64",
           "kind": "appimage",
-          "name": "LinDirStat-0.1.2-x86_64.AppImage",
-          "url": "https://github.com/danjboyd/LinDirStat-releases/releases/download/v0.1.2/LinDirStat-0.1.2-x86_64.AppImage",
-          "sha256": "7013c5c5247539c62bebd16cf0a416a190b2008b53e9936e3eaea094f3ac439e",
-          "sizeBytes": 29129208,
+          "name": "LinDirStat-0.1.3-x86_64.AppImage",
+          "url": "https://github.com/danjboyd/LinDirStat-releases/releases/download/v0.1.3/LinDirStat-0.1.3-x86_64.AppImage",
+          "sha256": "55b6a760ce2ef2f2da7935579030fad6ed7c79657fbdf696a0417779993966b1",
+          "sizeBytes": 29108728,
           "updateInformation": "gh-releases-zsync|danjboyd|LinDirStat-releases|latest|LinDirStat-*-x86_64.AppImage.zsync",
           "zsync": {
-            "name": "LinDirStat-0.1.2-x86_64.AppImage.zsync",
-            "url": "https://github.com/danjboyd/LinDirStat-releases/releases/download/v0.1.2/LinDirStat-0.1.2-x86_64.AppImage.zsync",
-            "sha256": "50d3cae3facfa335cb80ac524cf4b37091a26889e390fe6b55da40ad619aa5da",
-            "sizeBytes": 99803
+            "name": "LinDirStat-0.1.3-x86_64.AppImage.zsync",
+            "url": "https://github.com/danjboyd/LinDirStat-releases/releases/download/v0.1.3/LinDirStat-0.1.3-x86_64.AppImage.zsync",
+            "sha256": "3951f19b06acc9874c3f9857b1f0c43564103e890451267fdb4fc1311f7fe4a7",
+            "sizeBytes": 99733
           },
-          "edSignature": "xLE1H/BsHPKs6gjh74fpVcFDEMWFgZyXtfqncpKSCwqWf1BR5PKFadk/89LrGtVZ4+tDJygaryzuNabKffOZCA=="
+          "edSignature": "AzEeNo/et+96K4qQplZoyWQU9bO7KF46J+vCIWE75mFGiBYHY92YRWcf2CBLBT4sQavZf7++WMLelGeL96hTBQ=="
         }
       ]
     }
